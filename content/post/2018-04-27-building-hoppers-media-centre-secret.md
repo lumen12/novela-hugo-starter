@@ -10,42 +10,39 @@ authors:
 - Dennis Brotzky
 
 ---
-To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer, I’ve been crafting digital experiences for the past ten years, having contributed to the growth of companies such as Hopper, Lightspeed, and Breather, among others. Throughout this journey, I’ve had the opportunity to meet the most talented designers, engineers, growth marketers, and build a world-class team to develop startups worldwide. We call this team Narative.
+피그 마가 회사를 위해 최고의 디자인 툴인 이유를 이해했습니다. 저는 디자이너로서 호퍼, 라이트 스피드 및 브리더와 같은 회사의 성장에 기여했습니다. 전 세계 스타트 업 그레 이드 할 수 있습니다. 우리는이 팀을 내러티브라고 부하십시오.
 
-Narative is a studio based in 3 different cities around the world; so right off the bat we’re already facing a challenge; geography.
+내레이션은 전 세계 3 개 도시에 스튜디오 스튜디오입니다. 우리는 이미 도전에 도전하고 있습니다. 지리학.
 
-We came across Figma a few weeks before engaging in our first project. It’s worth noting that, I’ve been using Sketch for several years before Narative, and getting out of your comfort zone can be scary.
+우리는 첫 번째 프로젝트에 참여했습니다. 내레이션을하기 전에 몇 년 동안 스케치를 할 수있게되었습니다.
 
-Just thinking about re-learning a new tool, transferring past designs, plugins and projects I’ve been working on for years, started to give me anxiety.
-Luckily, the transition was more than natural. Working on Figma was second-nature and, two weeks in, it became my daily driver. In three weeks, I became a fan, and today I am probably an advocate. Here are eight reasons why.
+새로운 도구를 다시 배우자 운 좋게도 전환은 자연스럽지 않다. Figma에 대한 작업은 제 2의 성격을 지니고있다. 3 주 만에 나는 팬이면서도 아마 아마 옹호자 일 것입니다. 여기에 8 가지 이유가 있습니다.
 
-## Easy migration
+## 쉬운 운명
 
-Not much to say here. You literally just have to copy your art-boards — or as they call it, frames — then paste them into Figma. Simple as that. The platform is very forgiving and prepared for transitions.
+아직 정말 많지 않았다. 말 그대로 아트 보드입니다. 그렇게해야합니다. 이 플랫폼은 매우 용서하고 전환을 준비합니다.
 
-## Zero file management
+## 제로 파일 관리
 
-What does that mean? Sketch, Framer, Adobe XD or even Photoshop are native apps where you inherently need to save your work. Some tools have auto-save, of course, but you still end up with hundreds of megabytes and even gigabytes on your drive. And yes, if you lose your disk, break your computer somehow, or have your dog eat your SSD, you will lose your files completely.
+그게 무슨 뜻이야? 스케치, 프레이머, Adobe XD 또는 Photoshop은 작업을 저장해야합니다. 기본 앱입니다. 물론 다양한 도구를 사용할 수 있습니다. 그리고 네, 디스크를 잃어 버렸거나, 컴퓨터를 쓸 수 있습니다.
 
-Not with Figma. Not having to command+s is a big deal. Figma is a web-based software, meaning you never need to upload, download, or worry about versions again. Imagine a Google Docs for design, keeping all my projects organized in one app, in the cloud. One single source of truth for design files.
+Figma가 아닙니다. command + s를 수행 할 필요가 있습니다. Figma는 웹 기반 소프트웨어 성능 버전을 다시 업로드 할 수 있습니다. 구글 문서 도구를 상상할 수 있습니다. 디자인 파일을위한 유일한 소스.
 
-I probably saved more than 30GB of disk space by migrating my projects to Figma, and now I can access them from anywhere.
+필자는 프로젝트를 30GB 이상으로 확장했습니다.
 
-## Figma is platform-agnostic
+## 피그 마는 플랫폼에 구애받지
 
-One of the best features of a web-based software is the fact you’re no longer stuck with an operating system. You can run it right from the browser or from their native app, that’s essentially a wrapper. I’m able to seamlessly start a project on my iMac Pro at my home office, and continue on my Surface Book 2 on the go. That’s huge.
+웹 기반 소프트웨어의 가장 좋은 기능 중 하나는 더 이상 운영 할 수 있습니다. 기본 나 래퍼입니다. 홈 오피스의 iMac Pro에서 Surface Book 2를 계속 진행할 수 있습니다. 대단합니다.
 
-Additionally, you’ll always have the latest version, with no need to download painful software updates. The “cloud” is finally making sense in 2018.
+추가로 고통스러운 소프트웨어 업데이트를 다운로드 할 수 있습니다. "클라우드"는 2018 년입니다.
 
-## Performance
+## 공연
 
-You may be thinking that running a full-fledged design app from the web has huge performance drawbacks. I thought the same, but was I ever wrong.
+웹에서 본격적인 디자인 앱을 제공합니다. 나는 똑같이 생각한다.
 
-I’ve always had full-spec computers running Sketch, still, ever so often I’d run into performance hiccups or memory drainage. That’s never happened with Figma, which is pretty magical.
+나는 항상 스케치를한다. 그래 피그입니다.
 
-I continually forget that I’m running a huge project in a “webpage”, and as soon as I remember, it always blows my mind because of how fast it is.
-Components and styles
-This is a feature that most product design tools have, but for some reason, it’s slightly more polished on Figma.
+나는“웹 페이지”를 시작했다. 구성 요소 및 스타일과 제품 디자인 도구가 제공됩니다.
 
 At Narative, as we constantly change projects, styles and teams, one of the best ways for us to keep in sync is by publishing components. Even in different projects, or “files”, we can load components and libraries from previous projects, allowing us to be extremely efficient and consistent.
 
@@ -171,7 +168,7 @@ Gatsby requires Node to be installed to run the Bootstrap and Build sequences. U
 
 ### Step 1
 
-During the Bootstrap sequence, which occurs every time you run \$ gatsby develop, there are about 20 events that fire ranging from validating your gatsby-config.js to building the data schemas and pages for your site. For example, the Bootstrap sequence is where Gatsby will create pages. If you want an in depth look of all 20 Bootstrap steps Swyx shared a fantastic Gist that goes into more detail.
+During the Bootstrap sequence, which occurs every time you run $ gatsby develop, there are about 20 events that fire ranging from validating your gatsby-config.js to building the data schemas and pages for your site. For example, the Bootstrap sequence is where Gatsby will create pages. If you want an in depth look of all 20 Bootstrap steps Swyx shared a fantastic Gist that goes into more detail.
 
 ### Step 2
 
@@ -183,14 +180,14 @@ And finally, once the generated files are deployed, Gatsby lives in the browser.
 
 What’s important to remember is that Gatsby’s lifecycle can be aggregated into 3 main sequences:
 
-- Bootstrap
-- Build
-- Browser
-- These three sequences makeup the Gatsby lifecycle.
+* Bootstrap
+* Build
+* Browser
+* These three sequences makeup the Gatsby lifecycle.
 
 Parts of the lifecycle are visible when running $ gatsby develop
 A peak into the Gatsby lifecycle when running $ gatsby develop
-A peak into the Gatsby lifecycle when running \$ gatsby develop
+A peak into the Gatsby lifecycle when running $ gatsby develop
 If you’re familiar with React and the component lifecycle, Gatsby’s lifecycle is almost the same concept. Just like React’s lifecycle, Gatsby exposes hooks for developers to build on top of. Those lifecycle hooks are accessed through Gatsby specific files such as gatsby-node.js, gatsby-browser.js and gatsby-ssr.js.
 
 What are the Gatsby specific files for?
@@ -204,17 +201,17 @@ Gatsby runs a Node process when you develop or build your website and uses Webpa
 
 Everything that occurs during the Bootstrap and Build sequences occurs in gatsby-node.js. This means it’s the perfect place to create pages dynamically based off data from a source plugin or modify Gatsby’s Webpack or Babel configs.
 
-For example, if you want to move some files manually, such as a Netlify \_redirects file, a good place to do it is in your gatsby-node.js file at the onPostBuild lifecycle hook.
+For example, if you want to move some files manually, such as a Netlify _redirects file, a good place to do it is in your gatsby-node.js file at the onPostBuild lifecycle hook.
 
 From experience, most of my time has revolved around handling data and building pages in gatsby-node.js. This file quickly becomes the piping of your entire website.
 
 ## Examples of gatsby-node.js hooks:
 
-- createPages
-- onCreateBabelConfig
-- onCreateWebpackConfig
-- onPostBuild
-- gatsby-ssr.js
+* createPages
+* onCreateBabelConfig
+* onCreateWebpackConfig
+* onPostBuild
+* gatsby-ssr.js
 
 When you think Server Side Rendering you think of a server that takes in requests and dynamically builds pages and sends it to the client. Gatsby doesn’t do that, but it does server side render — it generates all the pages during build time.
 
@@ -222,10 +219,10 @@ Naturally, gatsby-ssr.js allows developers to hook into that lifecycle. In my ex
 
 ## Examples of gatsby-ssr.js hooks:
 
-- onPreRenderHTML
-- onRenderBody
-- replaceRenderer
-- gatsby-browser.js
+* onPreRenderHTML
+* onRenderBody
+* replaceRenderer
+* gatsby-browser.js
 
 Gatsby is a static site that loads a dynamic application after initial load, which means you get the benefits of a static site in a web application. gatsby-browser.js provides convenient hooks to deal with app loading, route updates, service worker updates, scroll positioning, and more.
 
@@ -233,11 +230,11 @@ Everything that occurs after your static site has loaded can be hooked in gatsby
 
 ## Examples of gatsby-browser.js hooks:
 
-- onClientEntry
-- onRouteUpdate
-- onServiceWorkerInstalled
-- registerServiceWorker
-- shouldUpdateScroll
+* onClientEntry
+* onRouteUpdate
+* onServiceWorkerInstalled
+* registerServiceWorker
+* shouldUpdateScroll
 
 ## Conclusion
 
