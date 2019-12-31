@@ -12,4 +12,4 @@ authors:
 
 #### 2020년에는 주요 정책
 
-{{< subscribe email="your@email.com" >}}
+{{< subscribe email="lumen12@gmail.com" >}}
