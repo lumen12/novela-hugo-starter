@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://fco.netlify.com/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "프코의 Startup Story"
 pygmentsstyle: 'monokai'
 
 # Theme settings
