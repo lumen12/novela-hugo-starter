@@ -6,8 +6,7 @@ excerpt: Creating a new website for Hopper, one of the top 4 most downloaded tra
   apps in the U.S, along with Uber, Lyft.
 secret: true
 timeToRead: 8
-authors:
-- Dennis Brotzky
+authors: []
 
 ---
 피그 마가 회사를 위해 최고의 디자인 툴인 이유를 이해했습니다. 저는 디자이너로서 호퍼, 라이트 스피드 및 브리더와 같은 회사의 성장에 기여했습니다. 전 세계 스타트 업 그레 이드 할 수 있습니다. 우리는이 팀을 내러티브라고 부하십시오.
