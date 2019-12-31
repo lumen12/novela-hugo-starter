@@ -6,7 +6,7 @@ fields:
   type: text
   config:
     required: false
-  label: Name
+  label: 이름
 - name: bio
   type: textarea
   default: ''
@@ -15,12 +15,12 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Bio
+  label: 소개
 - name: avatar
   type: file
   config:
     maxSize: 250
-  label: Avatar Image
+  label: 프로필 사진
 - name: social
   type: field_group_list
   fields:
@@ -38,7 +38,7 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Social Media
+  label: SNS
 - name: featured
   type: boolean
   label: Featured Author
