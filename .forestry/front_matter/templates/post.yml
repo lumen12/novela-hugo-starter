@@ -14,7 +14,7 @@ fields:
   label: Excerpt
 - name: date
   type: datetime
-  label: Date
+  label: 일시
   description: ''
   config:
     required: false
@@ -24,14 +24,14 @@ fields:
     export_format: YYYY/MM/DD h:mm A ZZ
 - name: timeToRead
   type: number
-  label: Read Time
-  description: The time it takes to read the post (in minutes)
+  description: 이 기사를 읽는 예상 읽는 시간입니다.
   default: 0
   config:
     required: true
     min: 
     max: 
     step: 
+  label: 읽는 시간
 - name: hero
   type: file
   config:
