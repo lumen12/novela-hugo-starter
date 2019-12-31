@@ -1,6 +1,6 @@
 baseURL: "https://fco.netlify.com/"
 languageCode: "en-us"
-title: "프코의 Startup Story"
+title: "프코의 스타트업 스토리"
 pygmentsstyle: 'monokai'
 
 # Theme settings
