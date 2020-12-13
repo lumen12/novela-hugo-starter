@@ -41,3 +41,5 @@ fields:
   type: tag_list
   default: []
   label: 저자
+pages:
+- content/post/메리-크리스마스.md
